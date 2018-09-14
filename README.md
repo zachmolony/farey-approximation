@@ -1,2 +1,2 @@
-# farey-approximation
-Finding rational approximation to irrational numbers using Farey fractions.
+# Farey approximation
+Finding rational approximation to irrational numbers using Farey sequencing in python.
